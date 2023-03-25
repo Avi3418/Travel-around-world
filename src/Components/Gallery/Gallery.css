@@ -1,0 +1,13 @@
+.gallery{ 
+    background-color:#f7e6ff;
+
+}
+.iii:hover
+{
+ transform:scale(1.2,1.2);
+ transition: all 1s linear;
+}
+.h{
+    background-color:#f7e6ff;
+    
+}

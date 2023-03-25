@@ -1,0 +1,24 @@
+.login{
+
+    width: 400px;
+    height: 500px;
+    margin-left: 500px;
+    
+}
+.body1{
+    background-color:#f7e6ff;
+}
+.log{
+    padding-top: 100px;
+}
+@media only Screen 
+and(min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2){
+
+    .body1{
+        background-color:aqua;
+    }
+
+
+}

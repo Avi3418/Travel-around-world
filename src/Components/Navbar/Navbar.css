@@ -1,0 +1,82 @@
+#navbar{
+    background-color: #382433;
+}
+.Navtext{
+    margin-left:50px;
+}
+
+span{
+  color: rgb(174, 174, 174)
+  ;
+}
+
+h4:hover{
+    color: rgba(168, 47, 49, 0.912);
+}
+.img{
+    height: 75px;
+    width: 100px;
+    margin-left: 20px;
+}
+ul.socialIcons {
+    padding: 0;
+  
+  }
+  
+  .socialIcons li {
+    background-color: yellow;
+    list-style: none;
+    display: inline-block;
+   
+    border-radius: 2em;
+    overflow:hidden;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+  .socialIcons{
+    margin-left: 90px;
+  }
+  
+  .socialIcons li a {
+    display: block;
+    padding-bottom: 1em;
+    min-width: 1.28571429em;
+    max-width: 1.28571429em;
+    height: 1.28571429em;
+    white-space: nowrap;
+    line-height: 1.5em; /*it's working only when you write text with icon*/
+    transition: 0.5s;
+    text-decoration: none;
+    font-family: arial;
+    color: #fff;
+  }
+  
+ 
+  
+  .socialIcons li:hover a {
+    max-width: 200px;
+    padding-right: 1em;
+  }
+  
+  .socialIcons .facebook {
+    background-color: #3b5998;
+    box-shadow: 0 0 16px #3b5998;
+    padding: 2px;
+   
+  }
+  
+  .socialIcons .twitter {
+    background-color: #00aced;
+    box-shadow: 0 0 16px #00aced;
+   padding: 2px;
+  }
+  
+  .socialIcons .instagram {
+    background-color: #cd486b;
+    box-shadow: 0 0 16px #cd486b;
+    text-align: center;
+    padding: 2px;
+  }
+  #font{
+   color: #a7596e;
+  }

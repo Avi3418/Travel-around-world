@@ -1,0 +1,27 @@
+.body{
+    background-color: #f7e6ff;
+}
+
+.div{
+    height: 500px;
+    width: 410px;
+    margin-left: 500px;
+   
+}
+
+
+
+
+@media only Screen 
+and(min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2){
+
+
+
+
+}
+
+
+
+
